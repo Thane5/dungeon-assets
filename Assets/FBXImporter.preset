@@ -14,15 +14,63 @@ Preset:
   m_Properties:
   - target: {fileID: 0}
     propertyPath: m_ExternalObjects.Array.size
-    value: 0
+    value: 3
     objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].first.type
+    value: UnityEngine:Material
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].first.assembly
+    value: UnityEngine.CoreModule
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].first.name
+    value: Metal_Polished
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[0].second
+    value: 
+    objectReference: {fileID: 2100000, guid: 53ce828af18d0eb46b8e8ede9ab92220, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[1].first.type
+    value: UnityEngine:Material
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[1].first.assembly
+    value: UnityEngine.CoreModule
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[1].first.name
+    value: Metal_Rusty
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[1].second
+    value: 
+    objectReference: {fileID: 2100000, guid: 57c5c45402f367749a31d5f99048f829, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[2].first.type
+    value: UnityEngine:Material
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[2].first.assembly
+    value: UnityEngine.CoreModule
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[2].first.name
+    value: Wood_Basic
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.data[2].second
+    value: 
+    objectReference: {fileID: 2100000, guid: 2cb987137b739894682ccea9106cd69b, type: 2}
   - target: {fileID: 0}
     propertyPath: m_MaterialImportMode
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_MaterialName
-    value: 0
+    value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_MaterialSearch
