@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1002039313208531687
 Transform:
@@ -88,6 +88,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChestSmall_Lid
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b51d8a270324c344fbb47301c11f3cf5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b51d8a270324c344fbb47301c11f3cf5, type: 3}
 --- !u!4 &481096644358307548 stripped
@@ -149,6 +153,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 18b40f6fb9474fc49b1aca2ad7393297, type: 3}
       propertyPath: m_Name
       value: ChestSmall
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 18b40f6fb9474fc49b1aca2ad7393297, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18b40f6fb9474fc49b1aca2ad7393297, type: 3}
