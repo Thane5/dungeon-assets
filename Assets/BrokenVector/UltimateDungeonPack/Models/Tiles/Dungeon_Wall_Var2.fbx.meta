@@ -24,10 +24,25 @@ ModelImporter:
   - first:
       64: 6400000
     second: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Polished
+    second: {fileID: 2100000, guid: 53ce828af18d0eb46b8e8ede9ab92220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Rusty
+    second: {fileID: 2100000, guid: 57c5c45402f367749a31d5f99048f829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Basic
+    second: {fileID: 2100000, guid: 2cb987137b739894682ccea9106cd69b, type: 2}
   materials:
     materialImportMode: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 0
   animations:
