@@ -7,7 +7,7 @@ public class ScreenshotMaker : MonoBehaviour
 {
     void Update()
     {
-        if (Input.GetButtonDown("Fire2"))
+        if (Input.GetButtonDown("Submit"))
         {
             var dir = Directory.GetParent((Application.dataPath)).ToString();
             int counter = 0;
