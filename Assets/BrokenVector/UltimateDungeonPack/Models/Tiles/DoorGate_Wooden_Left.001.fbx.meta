@@ -20,7 +20,7 @@ ModelImporter:
       name: Wood_Basic
     second: {fileID: 2100000, guid: 2cb987137b739894682ccea9106cd69b, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 1
     materialName: 1
     materialSearch: 1
     materialLocation: 0
@@ -52,7 +52,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 0
