@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
   m_Name: AmbientOcclusion
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -21,7 +21,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.99
+    value: 0.58
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -39,7 +39,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 2.14
+    value: 1.46
   directLightingStrength:
     overrideState: 0
     value: 0
@@ -111,7 +111,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 4.04
+    value: 3.46
   threshold:
     overrideState: 1
     value: 1
@@ -181,8 +181,8 @@ MonoBehaviour:
     value: {fileID: 0}
     defaultState: 1
   tonemapper:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 2
   toneCurveToeStrength:
     overrideState: 0
     value: 0
@@ -210,10 +210,10 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: -7
+    value: -8
   tint:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 4
   colorFilter:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
@@ -221,17 +221,17 @@ MonoBehaviour:
     overrideState: 0
     value: 0
   saturation:
-    overrideState: 0
+    overrideState: 1
     value: 0
   brightness:
     overrideState: 0
     value: 0
   postExposure:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 1.45
   contrast:
     overrideState: 1
-    value: 7
+    value: 0
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
