@@ -6,7 +6,7 @@
 
 - The repository is a Unity 2021.2.9f1 project with two demo scenes and Unity prefabs. 
 
-- The zip in the release section only contains the FBX files and textures, the Unitypackage also includes Demo scenes and prefabs.
+- The zip in the release section only contains the FBX files and textures.
 
 Also Available on 
 [Itch](https://brokenvector.itch.io/ultimate-low-poly-dungeon)
